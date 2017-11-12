@@ -1,0 +1,4 @@
+Prot16 themes for XTERM
+=======================
+
+Copy the contents of your preferred theme to your `~/.Xresources`. Then reload the file with `xrdb -merge ~/.Xresources` for the changes to come into effect (close and re-open the terminal if necessary).
